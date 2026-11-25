@@ -1,0 +1,5 @@
+*.o
+senhas
+senhas.exe
+test_sistema
+test_sistema.exe
